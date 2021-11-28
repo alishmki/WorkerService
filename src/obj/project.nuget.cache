@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/WHi1zkK53/w3ob15NfIf6VluDxRwnMcyyIoWMLXt4VNyhL0Ck5GB2BMM3L2jRdvsl0i1wstRBmPZQXqDLStw==",
+  "success": true,
+  "projectFilePath": "E:\\temp\\BackgroundQueue\\src\\BackgroundQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
